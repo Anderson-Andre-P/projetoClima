@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Demo da Projeto Clima" title="#ProjetoClima" src="https://github.com/Anderson-Andre-P/Lista-de-Tarefas/blob/main/img/Lista-de-tarefas-dark.png">
+  <img alt="Demo da Projeto Clima" title="#ProjetoClima" src="https://github.com/Anderson-Andre-P/projetoClima/blob/main/img/projetoClima.png">
 </h2>
 
 ### Features
